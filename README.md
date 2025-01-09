@@ -3,6 +3,9 @@
 A sleek and modern dark-themed landing page built using **React** and **TailwindCSS**. This project is designed to provide a visually appealing and responsive user experience, making it perfect for showcasing products, services, or portfolios.
 
 ---
+## 🛠️ Demo
+https://inspiring-gelato-d89a7e.netlify.app/
+
 
 ## 🚀 Features
 
@@ -31,5 +34,8 @@ A sleek and modern dark-themed landing page built using **React** and **Tailwind
 git clone https://github.com/username/Dark-Landing-Page--TailwindCSS-React.git
 npm i
 npm run dev
+---
+---
+
 
 
