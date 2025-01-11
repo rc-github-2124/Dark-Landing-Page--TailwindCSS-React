@@ -28,9 +28,7 @@ https://inspiring-gelato-d89a7e.netlify.app/
 ---
 ## 📦 Screenshots
 
-<img width="1231" alt="Screenshot 2025-01-12 at 1 00 06 AM" src="https://github.com/user-attachments/assets/854fb530-0cb3-4d6a-ba88-1c71363d7112" />
-
-
+<img width="1239" alt="Screenshot 2025-01-12 at 1 03 58 AM" src="https://github.com/user-attachments/assets/a03587dc-e5ce-4a78-a144-3cd65c4ab05b" />
 
 
 
