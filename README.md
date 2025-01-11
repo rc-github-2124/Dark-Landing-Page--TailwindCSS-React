@@ -26,6 +26,18 @@ https://inspiring-gelato-d89a7e.netlify.app/
 ---
 
 ---
+## 📦 Screenshots
+
+<img width="1238" alt="Screenshot 2025-01-12 at 1 00 50 AM" src="https://github.com/user-attachments/assets/f6b3fbf9-50cc-4657-9d59-7d59ed08d230" />
+<br/><br/><br/><br/>
+<img width="1235" alt="Screenshot 2025-01-12 at 1 00 24 AM" src="https://github.com/user-attachments/assets/040c76cc-97cf-4764-8a88-83e735be136b" />
+<br/><br/><br/><br/>
+<img width="1238" alt="Screenshot 2025-01-12 at 1 00 50 AM" src="https://github.com/user-attachments/assets/c6922cdf-a6ce-4e53-b0ae-b00b78ca37c7" />
+
+
+
+
+
 
 ## 📦 Installation
 
@@ -36,6 +48,5 @@ npm i
 npm run dev
 ---
 ---
-
 
 
